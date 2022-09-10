@@ -16,9 +16,9 @@ status-website:
   cname: status.ewizz.ninja
   # baseUrl: /your-repo-name
   logoUrl: https://www.ewizz.co.za/wp-content/uploads/2013/12/ewizz-logo-web-white-601.png
-  name: EWIZZ Status page
-  theme: light
-  introTitle: "EWIZZ Status page"
+  name: Systems status
+  theme: dark
+  introTitle:
   introMessage:
   navbar:
     - title: Status
