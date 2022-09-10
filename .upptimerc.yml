@@ -16,7 +16,8 @@ status-website:
   cname: status.ewizz.ninja
   # baseUrl: /your-repo-name
   logoUrl: https://www.ewizz.co.za/wp-content/uploads/2013/12/ewizz-logo-web-white-601.png
-  name: Upptime
+  name: EWIZZ Status page
+  theme: light
   introTitle: "EWIZZ Status page"
   introMessage:
   navbar:
@@ -24,6 +25,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+robotsText: "User-agent: * \n Disallow: /"
+commitMessages:
+  commitAuthorName: "EWIZZ Status Bot"
+  commitAuthorEmail: "bot@ewizz.co.za"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
