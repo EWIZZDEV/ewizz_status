@@ -40,19 +40,19 @@
     "url": "https://api.ewizz.co.za/v2/user_code?ezcode=abcdef",
     "icon": "https://favicons.githubusercontent.com/api.ewizz.co.za",
     "slug": "ewizz-api",
-    "status": "down",
-    "uptime": "78.48%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "78.48%",
-    "uptimeMonth": "78.48%",
-    "uptimeYear": "78.48%",
-    "time": 1236,
-    "timeDay": 1236,
-    "timeWeek": 1236,
-    "timeMonth": 1236,
-    "timeYear": 1236,
+    "status": "up",
+    "uptime": "59.32%",
+    "uptimeDay": "59.32%",
+    "uptimeWeek": "59.32%",
+    "uptimeMonth": "59.32%",
+    "uptimeYear": "59.32%",
+    "time": 1302,
+    "timeDay": 1302,
+    "timeWeek": 1302,
+    "timeMonth": 1302,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2022-09-10": 26
+      "2022-09-10": 66
     }
   }
 ]
