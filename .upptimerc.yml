@@ -21,10 +21,6 @@ status-website:
   introTitle:
   introMessage:
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 robotsText: "User-agent: * \n Disallow: /"
 commitMessages:
