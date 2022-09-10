@@ -27,7 +27,7 @@ commitMessages:
   commitAuthorEmail: "bot@ewizz.co.za"
 
 i18n:
-  footer:
+  footer: powered by Upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
