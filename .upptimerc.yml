@@ -20,7 +20,6 @@ status-website:
   theme: night
   introTitle:
   introMessage:
-  navbar:
 
 robotsText: "User-agent: * \n Disallow: /"
 commitMessages:
