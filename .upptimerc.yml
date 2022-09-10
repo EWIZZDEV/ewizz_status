@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.ewizz.co.za/wp-content/uploads/2013/12/ewizz-logo-web-white-601.png
   name: Systems status
-  theme: dark
+  theme: night
   introTitle:
   introMessage:
   navbar:
@@ -30,6 +30,9 @@ robotsText: "User-agent: * \n Disallow: /"
 commitMessages:
   commitAuthorName: "EWIZZ Status Bot"
   commitAuthorEmail: "bot@ewizz.co.za"
+
+i18n:
+  footer:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
