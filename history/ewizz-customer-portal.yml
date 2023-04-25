@@ -1,7 +1,7 @@
 url: https://office.ewizz.co.za
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2023-04-25T08:38:47.665Z
+status: down
+code: 500
+responseTime: 865
+lastUpdated: 2023-04-25T08:47:09.699Z
 startTime: Sat Sep 10 2022 10:47:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
