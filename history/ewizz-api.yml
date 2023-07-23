@@ -1,7 +1,7 @@
 url: https://api.ewizz.co.za/v2/user_code?ezcode=abcdef
-status: up
-code: 200
-responseTime: 1851
-lastUpdated: 2023-07-22T23:00:31.627Z
+status: down
+code: 500
+responseTime: 7347
+lastUpdated: 2023-07-23T08:08:12.357Z
 startTime: Sat Sep 10 2022 10:21:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
